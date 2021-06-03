@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd in St. Martins Church in the suburbs of Canterbury, Sept. 14. 1669 at the funeral of the Right Honourable Mabella, Lady Fordwitch, the relict of Sir John Finch, Knight, Baron of Fordwitch, Lord Keeper of the Great Seal of England / by Peter Du Moulin ...</title>
+            <author>Du Moulin, Peter, 1601-1684.</author>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36853</idno><idno type="EEBO-CITATION">19729057</idno>
+  <idno type="VID">109374</idno>
+  <idno type="EEBO-PROQUEST">2240861404</idno>
+  
+            <idno type="STC">Wing D2566</idno>
+            <idno type="STC">ESTC R41939</idno>
+            <idno type="OCLC">19729057</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd in St. Martins Church in the suburbs of Canterbury, Sept. 14. 1669 at the funeral of the Right Honourable Mabella, Lady Fordwitch, the relict of Sir John Finch, Knight, Baron of Fordwitch, Lord Keeper of the Great Seal of England / by Peter Du Moulin ...</title>
+                  <author>Du Moulin, Peter, 1601-1684.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Morgan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and tightly bound, with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fordwich, Mabella Finch, --  Lady, d. 1669.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Daniel XII, 2-3 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109374:1"/>
+            <p>A SERMON Preach'd in St. <hi>Martins</hi> Church in the Suburbs of <hi>Canterbury,</hi> Sept. 14. 1669. At the FUNERAL OF THE RIGHT HONOURABLE MABELLA Lady FORDWITCH.</p>
+            <p>The Relict of Sir JOHN FINCH, Kt. Baron of <hi>Fordwitch,</hi> Lord Keeper of the Great Seal of <hi>ENGLAND.</hi>
+            </p>
+            <p>Peter Du Moulin, <hi>D. D. Canon of Christs-Church</hi> Canterbury, <hi>One of his Majesties Chaplains.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Morgan</hi> in <hi>Well-Yard,</hi> near St. <hi>Bartho<g ref="char:EOLhyphen"/>lomews-Hospital,</hi> 1669.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:109374:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <hi>Rob. Grove.</hi> R. P. D. Episc.<lb/>
+                  <hi>Lond.</hi> a Sac. Dom.</signed>
+               <dateline>
+                  <date>Sept. 30. 1669.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:109374:2"/>
+            <head>FOR THE FUNERAL OF THE RIGHT HONORABLE MABELLA Lady FORDWITCH.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He right use of <hi>Funeral Sermons</hi> being to make Christians to think of their end, and the Glory or misery that followeth; yet it is less minded, and less lookt for than the praise of the <hi>deceased.</hi> And the lives of most persons being fitter to be forgotten than <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommended, a thankless choice is put upon the gravity and sincerity of the <hi>Ministery,</hi> either to discontent the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rinds of the Dead by our silence of their deserts, or to dispa<g ref="char:EOLhyphen"/>rage
+<pb facs="tcp:109374:3"/> our Calling, and wrong our integrity by speaking untrue praises in the Chair of Truth. It is a wise caution
+<q>
+                  <l>Qualem commendes etiam atque etiam aspice, ne mor</l>
+                  <l>Incutiant aliena tibi peccata pudorem.</l>
+               </q> Look again and again, whom thou takest in hand com<g ref="char:EOLhyphen"/>mend, least thou get a discommendation by commending that which is to be condemned.</p>
+            <p>But though the deceased be praise-worthy, we must ever remember that the <hi>Chair of Truth</hi> was set up for the praise of God, not men; and we never ought to give any praise to men out of this place, but when it tends directly to the <hi>glory of God.</hi>
+            </p>
+            <p>Wherefore in the present occasion I have great reason to bless God, and thank the <hi>Noble persons</hi> that have put this Office upon me, that they bring a Subject to my hands which being generally known and admired, as owner of a most rare Vertue, will secure the praiser from the fear of any imputa<g ref="char:EOLhyphen"/>tion of flattery. A person whom I ought to praise for the praise of God; and whose excellent graces and real good<g ref="char:EOLhyphen"/>ness, if I set out before Christians, I shall do the right work of an <hi>Evangelist.</hi> For what is our calling, but to fra<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the <hi>Churh to holiness</hi> to present her as a <hi>chast Virgin</hi> unto Christ. And what certainer way for that than to set before Christians such an accomplisht pattern of <hi>wisdom</hi> and <hi>piety?</hi> And then tell them, <hi>Be you followers of this pious Lady, as she also was of Christ.</hi>
+            </p>
+            <p>I know that precepts are Obligatory, not Examples. But I know also that Examples are more persuasory than precepts.
+<pb facs="tcp:109374:3"/> Antient Examples of the great Lights of the Church are re<g ref="char:EOLhyphen"/>commended to us By St. <hi>James, 5.10. Take my Bre<g ref="char:EOLhyphen"/>thren, the Prophets, who have spoken in the Name of the Lord, for an Example of suffering affliction and patience. You have heard of the patience of</hi> Job. Yea, but the new Examples are more effectual. Why? the people is more perswaded by what they see, than by that they hear; and less by that which was many Ages before them, than by that which is present, at hand, and at the next door.</p>
+            <p>Yet see how fantastical the World is, while such rare Examples are among us, we neither observe nor esteem them as we ought. When God hath taken them away, and we find them missing, then we exalt them, and look after those fine Lights when they are hidden. And truly, as in the Eve<g ref="char:EOLhyphen"/>ning of a fair day, the Sun after his setting shewes more beauties, and more glories in the bright and various colours of the Sky, than when he stood above our Horizon: So these good Lights when they are newly hidden, cast a more amiable and glorious reflection of their Vertue, and draw more eyes upon their beames when they are parting, then when they shone in the World with their full light.</p>
+            <p>I see with what <hi>veneration</hi> and love this <hi>Noble assistance</hi> fix their eyes upon this <hi>Hearse of their honourable friend.</hi> What sad parting looks they cast upon the late Lodging of her <hi>gracious</hi> and <hi>vertuous Soul,</hi> now an <hi>Angel in Heaven;</hi> a Soul of such a well ballanced temper of <hi>Nature</hi> and <hi>Grace, Piety</hi> and <hi>Prudence, Humility</hi> and <hi>Honour, Meekness</hi> and <hi>Generosity,</hi> as can hardly be parallelled in our Age.</p>
+            <p>It is known how vertuously she lived with her Noble Lord, Sir <hi>John Finch,</hi> Baron of <hi>Fordwitch, Lord Keeper</hi> of
+<pb facs="tcp:109374:4"/> the Great Seal of <hi>England.</hi> A Nobleman eminent for his rare parts, and no less for his signal Loyalty and long-suf<g ref="char:EOLhyphen"/>fering for his <hi>great Master.</hi> How concurrent was she with him in his fidelity! What a cheerful partner of his Crosses in her <hi>Soveraigns</hi> cause! How helpful was she to him in his adversities, sometimes the companion of his <hi>Exile</hi> abroad, sometimes the wise and successful sollicitor of his businesses in <hi>England,</hi> in the reign of the <hi>rebellion.</hi> How tender was <hi>her care of him, how unwearied her patience,</hi> in his long and many sicknesses, which had made him sore and hard to please! How <hi>honourably</hi> did she interr him! What a sumptu<g ref="char:EOLhyphen"/>ous <hi>Monument</hi> did she bestow <hi>upon</hi> him in this <hi>Church!</hi>
+            </p>
+            <p>The time of her <hi>Widowhood</hi> to her death, about nine years, in which she had the rule of her self and her estate, gave her opportunity to shew her vertue most eminent. Piety had the chief rule in her heart, and in her house, which by her care<g ref="char:EOLhyphen"/>ful serving of God, she made a Church, as did the Noble friend of St. <hi>Paul,</hi> Holy <hi>Philemon,</hi> whose bountiful house-keeping, and refreshing the bowels of the Saints, she did also imitate.</p>
+            <p>Ever since the <hi>Martyrdom</hi> of Holy and glorious King <hi>Charles</hi> the first, which was on a <hi>Tuesday,</hi> she made that day, every week, her fasting day; and kept it with great Devotion and mortification: labouring for her part to avert by her humiliation, the terrible <hi>judgments of God</hi> hanging over the Land for that prodigious crime. And very wisely was a <hi>Tuesday</hi> chosen for this last duty to her, that her day of Devotion might be that of ours, to learn godliness by her Example.</p>
+            <p>The monethly communion in our <hi>Cathedral</hi> she never mist;
+<pb n="7" facs="tcp:109374:4"/> but when duty called upon her to receive in her own Church, this Church. All our <hi>Holy-dayes</hi> and <hi>Lent Sermons</hi> she graced with her presence, as if she would have made amends for the paucity of the Assistants, and the absence of many, who cry out for want of Sermons, and will not come to those which with a free will, and beyond our Statutes, are bestowed upon them. None more attentive then she in those <hi>Holy Exercises.</hi> How she profited at them, she exprest in her whole conversation. And God by blessing her for it, made good his gracious Sentence, <hi>Blessed are they that hear the Word of God and keep it.</hi>
+            </p>
+            <p>To the publique Holy Service she bore a singular respect and affection, and might say with <hi>David,</hi> Ps. <hi>26. Lord I have loved the habitation of thy House, and the place where thine honour dwelleth:</hi> For which she had the same disposition as <hi>David</hi> in that Psalm, <hi>I will wash my hands in Innocency, so will I compass thine Altar, O Lord.</hi> For that Conscience which watcheth carefully over her own wayes, to walke before God unto all pleasing, gets thereby a great con<g ref="char:EOLhyphen"/>fidence though not in her Vertue, yet in Gods bounty, to draw neer him and compass his Altar.</p>
+            <p>For the innocency of her <hi>Life,</hi> it were little to say, Whom hath she wronged? Whom hath she wilfully offended either in word or deed? Whom hath she provoked with her bitter<g ref="char:EOLhyphen"/>ness? Whom, though never so mean, hath she diseontented with her pride? We will say rather, To whom did she not do good that required it at her hands? To whose need was her bounty shut up? Did she not seek and create occasions to do good? Did she not water the dry grounds far and neer with the streams of her liberality? Did not her House, her Table,
+<pb facs="tcp:109374:5"/> her Attendance, the managing of her Estate, make intelli<g ref="char:EOLhyphen"/>gent beholders to doubt whether <hi>her wisdom or her good<g ref="char:EOLhyphen"/>ness</hi> was <hi>more eminent?</hi> The more eminent, because they were carefully covered with the vail of <hi>Humility</hi> and <hi>singular modesty.</hi> For that vail is a resplendent <hi>Ornament;</hi> that Or<g ref="char:EOLhyphen"/>nament of a meek, and quiet Spirit, which before God is of great price, shineth very bright before men.</p>
+            <p>That was the <hi>Jewel indeed,</hi> which beautified all her <hi>con<g ref="char:EOLhyphen"/>versation;</hi> That meekness, that moderation known to all men; that evenness of Spirit, in adversity and prosperity, with Friends and Enemies, complying with all things but Vice, descending to the condition of her inferiours, winning persons of all humours and degrees, with a dexterity with<g ref="char:EOLhyphen"/>out guile, and an affability without dissimulation,</p>
+            <p>Such a religious and vertuous Life could not but have a religious and blessed end. <hi>Non potest, male mori qui bene vixit.</hi> And such an end she had. Then did Gods grace in her redouble the <hi>humility</hi> of her <hi>Repentance,</hi> the strength of her faith, the heat of her love, and the joyes of her hope. God in his mercy giving her good intervals be<g ref="char:EOLhyphen"/>tween apoplectical fits, to let her awakened Soul to see the Heaven opened, and her faithful Saviour making good to her his promise to all Believers, <hi>I will come again and re<g ref="char:EOLhyphen"/>ceive you to my self, that where I am you may be also,</hi> Job. <hi>14.3.</hi>
+            </p>
+            <p>Being a person of few words, which she placed well, she husbanded those intervals to express her <hi>disposition to Hea<g ref="char:EOLhyphen"/>ven,</hi> her longing for God, her desire to depart and to be with Christ. For as for the disposing of her Estate, when I exhorted her to it, she said that work was ready done; shew<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:109374:5"/> that though her mortal sickness came suddenly, it came not unexpectedly, and that she had done with the World before the World had done with her. I can<g ref="char:EOLhyphen"/>not without joy and comfort remember her joy and com<g ref="char:EOLhyphen"/>fort exprest with eyes and armes lift up to Heaven, her heart going along with this rapture of Saint <hi>Paul,</hi> while I speak it; <hi>I live, yet not I, but Christ li<g ref="char:EOLhyphen"/>veth in me, and the life which I now live in the Flesh, I live by the Faith in the Son of God, who loved me, and gave himself for me,</hi> Gal. <hi>2.20.</hi>
+            </p>
+            <p>How sincerely, how evidently, in words and gestures, did she express that she was full of the Life and peace of God? Which though it pass all understanding, yet held up her understanding tq Heaven; and to the ve<g ref="char:EOLhyphen"/>ry last kept her heart and mind in the knowledge and love of God, through <hi>Jesus Christ.</hi>
+            </p>
+            <p>In that blessed disposition departed the Mother of her Kindred, the Nurse of the poor, the rare exam<g ref="char:EOLhyphen"/>ple of piety, wisdom, and nobleness, and the honour of our Cathedral. For she was Daughter to the Reverend Dean of <hi>Canterbury, Charles Fotherby;</hi> Neece to the Right Reverend L. Bishop of <hi>Salisbury, Martin Fother<g ref="char:EOLhyphen"/>by,</hi> sometimes Canon of the same Church; two Brethren of eminent worth, descended of an antient family of Knights, <hi>Fotherby's</hi> of <hi>Fotherby,</hi> in the County of <hi>Lincoln.</hi> But her high extraction consisted in being the Daughter of our Father which is in Heaven, and her high match in being the Spouse of <hi>Christ,</hi> in whose armes she is now resting, full of peace and glory.</p>
+            <pb n="10" facs="tcp:109374:6"/>
+            <p>That we may once enter into that rest, among those that are singled by Gods great mercy from the univer<g ref="char:EOLhyphen"/>sal condemnation of impenitent sinners, let us meditate up<g ref="char:EOLhyphen"/>on this Text.</p>
+         </div>
+         <div type="sermon">
+            <pb n="11" facs="tcp:109374:6"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Daniel XII. II, III.</hi>
+                  </bibl>
+                  <p>And many of them that sleep in the dust of the Earth shall awake, some to everlasting life, and some to shame and everlasting contempt.</p>
+                  <p>And they that be wise shall shine as the brightness of the Firmament, and they that turn many to Righteousness, as the Stars, for ever and ever.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Prophet <hi>Daniel,</hi> who in our Text foretel<g ref="char:EOLhyphen"/>leth the resurrection, and that which follows upon it, in the verse before speaks of a pre<g ref="char:EOLhyphen"/>ceeding time of trouble, such as never was since there was a Nation. That time being the worst, must be the last time, for <hi>in fundo non tantum minimum sed et pessimum remanet.</hi> In the bottom lye the dregs; and these last times of the World are like the lean and the lame of the Flock that are lagging behind and hal<g ref="char:EOLhyphen"/>ting after the rest. Truly our times being the worst of all for sin, may soon by Gods just Judgement prove the worst of all for trouble. But that time of trouble must be welcom to Gods Children, since it is the fore-run<g ref="char:EOLhyphen"/>ner of the final long desired deliverance from the bon<g ref="char:EOLhyphen"/>dage of sin, vanity, and misery. For so we read in the first verse, <hi>At that time</hi> Michael <hi>the great Prince shall stand for the children of Gods people, And at that time they shall be delivered, every one that shall be found written in the Book.</hi>
+            </p>
+            <p>That great Prince, <hi>Michael,</hi> whose name signifies, <hi>Who
+<pb n="12" facs="tcp:109374:7"/> is like the Lord,</hi> we take to be the Lord <hi>Jesus Christ,</hi> most like God his Father, and one God with him and the Holy-Ghost. Through him come all Gods delive<g ref="char:EOLhyphen"/>rances and gifts to his pepple; that last especially, their final resurrection, by the vertue of his resurrection, and their glory in conformity to his glory.</p>
+            <p>That deliverance and glory is the principal end of the Text, though there be in it both Mercy and Judge<g ref="char:EOLhyphen"/>ment. For there are two parts in the Text; The first of the sleeping of human bodies in the dust. The second of their awaking in the general resurrection; and that two wayes, Some to everlasting glorious to life, to shine as the Firmament and the Stars, for ever and ever; some to shame and everlasting contempt.</p>
+            <p>There is a little rub in the entry, which must be rub<g ref="char:EOLhyphen"/>ed out; <hi>Many of them that sleep in the dust of the Earth shall awake, Many,</hi> why not <hi>all?</hi> since we learn of our Saviour, <hi>Joh.</hi> 5. That <hi>all that are in the Graves shall hear his voice and come forth.</hi> The plaine answer is, that in our Text, as in some others, <hi>many</hi> is taken, for <hi>all,</hi> as sometimes <hi>all</hi> is taken for <hi>many.</hi> St. <hi>Austin</hi> brings this instance for it, <hi>Gen.</hi> 17. God said to <hi>Abraham, A Father of many Nations have I made thee.</hi> And yet he saith to <hi>Jacob, Gen.</hi> 28. <hi>In thy seed shall all the Families of the Earth be blessed:</hi> There <hi>all</hi> is taken for <hi>many,</hi> But <hi>Rom.</hi> 5.19. <hi>By one mans disobedience many were made sin<g ref="char:EOLhyphen"/>ners.</hi> There <hi>many</hi> is taken for <hi>all;</hi> For by <hi>Adam</hi>'s sin all men were made sinners. So there is no difficulty in this, when one knows the style of Scripture, <hi>Those many that sleep in the dust of the Earth shall all awake.</hi>
+            </p>
+            <pb n="13" facs="tcp:109374:7"/>
+            <p>We shall all awake, but we must all go to bed first, <hi>Om<g ref="char:EOLhyphen"/>nes una manet nox,</hi> Death is called by <hi>Job,</hi> 39. <hi>The place appointed for all living,</hi> There is nothing more known, and yet nothing less heeded. And although Nature teach us that it is appointed unto men once to dye, and Scrip<g ref="char:EOLhyphen"/>ture teach us besides, that after Death comes the Judge<g ref="char:EOLhyphen"/>ment; yet loose, livers fool away the thought of Death, as if this were their Philosophy, that they need not think of Death because it comes without thinking. Yea, but if Death come to them without thinking, they must go to Judgment without preparation, and be judged with<g ref="char:EOLhyphen"/>out delay: Wherefore we were best, all of us, to think of Death betimes, and have God and our end alwayes before our eyes, living as we shall wish to have lived when we dye; for dye we must, and judged we must be: <hi>Whatsoever thou takest in hand remember the end and thou shalt never do amiss,</hi> saith the wise Son of <hi>Syrach, Ecclu.</hi> 7.36.</p>
+            <p>To make the thought of our Death familiar unto us, the termes of our Text are of great strength; Death is called here <hi>a sleep,</hi> and the bed assigned for that sleep is <hi>the dust of the Earth;</hi> The Holy Ghost seems to use these termes, that our sleep may put us in mind of our Death, and our beds of our Graves; and that we may so acquaint our selves with God and our last hour, by a Holy life, while our day lasteth, that when it come to its evening, we make no more adoe, to lye down to dye, then to lye down to sleep.</p>
+            <p>Of the figurate expressions of Death this is the most frequent in Scripture: <hi>David</hi> slept with his Fathers, so,
+<pb n="14" facs="tcp:109374:8"/>
+               <hi>Solomon,</hi> so <hi>Abijam,</hi> so <hi>Asa,</hi> and St. <hi>Stephen,</hi> in his Martyrdom, having made an end of his prayers <hi>fell asleep;</hi> although he had a hard bed and hard blankets, a heap of stones under and over him.</p>
+            <p>And truly Death is well called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Bro<g ref="char:EOLhyphen"/>ther of Death. As sleep, so death, closeth our eyes, and our ears and benumbeth our senses. He that is asleep is out of the World for that time, both sleepers and dead men have no part in the things that are done under the Sun. But dead men are more soundly asleep, the clamour of War, and the roaring of Canons do not wake their bo<g ref="char:EOLhyphen"/>dies, and much less disturb the rest of their Souls; and though Earth-quakes shake their bed they awake not, the glorified Souls stand safe about the place where Winds and Storms are formed, and their bodies lye safe under the places beaten with those Storms. Wherefore when God will afflict a State, he takes away the prime good Souls out of the Storm by Death, like a kind Mother that would lay her dear child asleep in a Room out of the noise and out of harmes way, when there is some hurry or riot in the House. Thus <hi>Isa.</hi> 57.1. <hi>Merciful men are taken away from the evil to come. He shall enter into peace, they shall rest in their beds, each one walking in his uprightness.</hi>
+            </p>
+            <p>As we put off our cloaths when we go to bed, so we do when we dye, Death strips us quite naked. <hi>Naked I came into the World, and naked I must go out of it, said</hi> Job, 1.21. And yet Death makes us more naked than sleep doth, we will have a pair of sheets in our bed; one will serve in our Graves. That's all we shall carry
+<pb n="15" facs="tcp:109374:8"/> along with us of all our Estate, and not onely death strips us of our Estates, but of our bodies, wherefore so dy St. <hi>Paul</hi> calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to be uncloathed.</hi> 1 <hi>Cor.</hi> 5.4. So for a godly man to put off his body by Death, is laying his cloaths by, that he may the better take his rest with God.</p>
+            <p>For that sleep of Death God hath provided a bed, called in this Text, <hi>the dust of the Earth.</hi> It is a Natu<g ref="char:EOLhyphen"/>ral bed, <hi>for dust thou art and into dust shalt thou return, Gen.</hi> 3.19. It is the doom of all flesh, it is a common bed, for <hi>the small and the great lye there, and the Servant [there] is free from his Master,</hi> Job 3.19. It is a safe bed, for there one is out of the reach of blows. Many a man hath been stab<g ref="char:EOLhyphen"/>bed or robbed in his Bed; but one in his Grave is past all dangers. <hi>Non habet unde cadat,</hi> If you burn his bones, as the Papists did those of <hi>John Wickliff,</hi> it is but dust to dust as before, and God keeps our dust in the Coffers of his providence, do men what they will with it. It is a quiet bed, where one is not annoyed with dreams, or disturbed with cares. <hi>They rest in their beds,</hi> as I alledged out of <hi>Isaiah.</hi> And finally it is a low bed, which calls upon us for lowliness, and will make the proudest hum<g ref="char:EOLhyphen"/>ble, whether they will or no. O the dust of the Earth! Did we remember that it must be our bed after our Death, that dust is our Element in this life, and that dust will to dust, it would wean our hearts from pride and love of the World.</p>
+            <p>Look before you; Here is the result of human Nobi<g ref="char:EOLhyphen"/>lity, A Lady of Noble extraction, matcht with a Peer of the Realm: One who by her wisdom, her place, and her means, hath lived in much honour: Now that ho<g ref="char:EOLhyphen"/>nour
+<pb n="16" facs="tcp:109374:9"/> ends in the dust, as blaze of brush wood,. soon out, leaving a few ashes behind, and the end of this ce<g ref="char:EOLhyphen"/>remony will be to lay-her honour in the dust. Since it is so then that Death divests us of all that is about us, and puts off our cloaths to lay us in our Beds of dust; let us not load our selves with more cloaths than we need; Let us not clog our selves with superfluities, which we must put off when we go to Bed. Rather because we must be shortly divested of all, let us begin that work of our own accord, and undress our selves before hand, putting off the love of the World and the affections of our flesh; that when the day comes that we must cast all away, it be no newes to us, being undrest already; and having untyed all the strings that tyed our hearts to the World. It is for Children to cry when they must go to bed, sure we shew our selves very childish, and very igno<g ref="char:EOLhyphen"/>rant of the sweetness of that rest, which God hath in store for his Children, if we repine when he comes to take us away from the evil, and bring us into his resting place.</p>
+            <p>O, it is a sweet word, when God saith unto one of his beloved, as to <hi>Daniel,</hi> in the last verse of this Book, and so I trust that God said to this honourable and religious person, <hi>Go thou thy way till the end, for thou shalt rest;</hi> that is, Go and rest in Gods peace to the end of the World. But the end of the World is not the end of the rest of Gods beloved, but the beginning of a better and everlasting rest. For thus saith God again to <hi>Daniel, Thou shalt stand in the lot, at the end of the dayes,</hi> That is, Thou shalt have thy share in the lot of the Righteous
+<pb facs="tcp:109374:9"/> in the end of Time, when the stream of Time shall fall and loose it self in the Ocean of Eternity; when ever<g ref="char:EOLhyphen"/>lasting rewards on the one hand, and everlasting punish<g ref="char:EOLhyphen"/>ments on the other, shall be allotted by the great Judge to all men, then summon'd out of their beds to make their appearance before him.</p>
+            <p>This falls to my second point, after sleep there must be a waking; and that of two sorts, either to everlasting life and glory, or to everlasting shame and contempt.</p>
+            <p>That there must be a time of awaking, the very term of sleep implyeth it. For you may observe that whereas Scripture speaks often of the Death of Beasts, of which the Ceremony of Sacrifices, gave much occasion to speak, yet you shall no where read that they fell asleep when they dyed: Why? their Death is not a sleep, for they never wake. <hi>Mos Christianus obtinuit ut mortui quia ressurecturi esse non dubitantur dormientes vocentur,</hi> saith <hi>Bede,</hi> among Christians dead men are said to be asleep, because of the certainty of their resurrection.</p>
+            <p>
+               <hi>Lazarus our friend sleepeth,</hi> saith Christ, <hi>but I go to awake him.</hi> Now the same voice that awaked <hi>Lazarus</hi> will awake us all, <hi>The hour is coming, in which all that are in the Graves shall hear the voyce of the Son of man, and came forth,</hi> Joh. 5.28. like a company of Servants, rising out of their Beds in hast, when their Master calleth.</p>
+            <p>At the time, as when we rise in the Morning we put on our Cloaths, our Souls shall put on their Garments of Flesh again. Wherefore 2 <hi>Cor.</hi> 5.4. to rise from the Death, St. <hi>Paul</hi> calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to be cloathed upon.</hi> In that rising we shall not be troubled to look for our
+<pb n="18" facs="tcp:109374:10"/> Cloaths; God will give every one his own, though the cloaths were torn, scattered, and mislaid, they shall be found whole and together, be nothing shall be missing. And the wonder will be, that whereas in our Death we put off an old worn Suit, we shall find it new in the re<g ref="char:EOLhyphen"/>surrection. <hi>It is sown in dishonour, it is raised in glory. It is sown in weakness, it riseth in power. It is sown a natural Body, it is raised a spiritual Body,</hi> 1 Cor. 15.43. And again, <hi>v.</hi> 53. <hi>This corruptible must put on incorruption, and this mortal must put on immortality.</hi>
+            </p>
+            <p>St. <hi>Paul</hi> speaks there of Gods Children onely, but <hi>Daniel</hi> speaks here of good and bad; <hi>some shall rise to ever<g ref="char:EOLhyphen"/>lasting life, some to shame and everlasting contempt.</hi> This con<g ref="char:EOLhyphen"/>firmed by our Saviour, <hi>Joh.</hi> 5.29. <hi>They that have done good shall come forth unto the resurrection of life, and they that have done evil unto the resurrection of damnation.</hi> Here is on the one side life, everlasting life; on the other side shame, contempt, damnation, and that for ever.</p>
+            <p>But since we are upon the Souls putting on of their cloaths again, we must observe in these cloaths a great difference: For it is certain that all shall put on the same bodies as they had before; but some with their cloaths of Flesh shall put on glory, some shall put on shame and contempt: Which im<g ref="char:EOLhyphen"/>plyeth that the Godly shall rise more handsom then they were before, and the Wicked more ugly. Cer<g ref="char:EOLhyphen"/>tainly whereas the Apostle saith of the body of Gods Children, <hi>It is sown in dishonour, it is risen in glory,</hi> we may say of the body of the wicked, it is sown in
+<pb n="19" facs="tcp:109374:10"/> dishonour, it riseth in greater dishonour. In this World, many times under a fair out-side and a comely countenance lyeth a vicious Soul, and a cankered heart. But it shall not be so in the re<g ref="char:EOLhyphen"/>surrection. Shame and Contempt shall be on the faces of the wicked. Reprobate sinners shall appear as ugly as their Crimes; and a fair Harlot shall ap<g ref="char:EOLhyphen"/>pear as deformed and odious unto the eyes of men and Angels, as her lewdness is hateful in the fight of God. But the Beauty of the Souls washt with Christ's Blood, and sanctified by his Spirit, will shine bright at the out-side, and make their bodies as gracious as their Souls. <hi>The King's Daughter, that is the Church, shall be full of glory both within and without.</hi>
+            </p>
+            <p>It is observable. that in the two Holy Languages, the <hi>Hebrew</hi> and the <hi>Greek,</hi> the same word signifieth handsom and good. In the Resurrection to Life everlasting, these two not only shall meet in one Subject, but good and handsom shall be all one: <hi>Then shall the Righteous shine forth as the Sun in the Kingdom of their Father,</hi> Matth. 13.43.</p>
+            <p>This awaking to Resurrection of Life hath that like<g ref="char:EOLhyphen"/>ness with the awaking of our Bodies in the Morning after a good sleep, that if there was any crudity and indigestion in our stomack over night, we find it dispersed in the Morning; so by the sleep of death our Youth is renewed, like the Eagles, and that inborn malignity that stuck to our Flesh, is consu<g ref="char:EOLhyphen"/>med with our Flesh; that weight of sin that lay so
+<pb n="20" facs="tcp:109374:11"/> heavy upon our stomacks over-night, by the sleep of Death shall be digested quite away, and we shall rise new Creatures. That Body and Soul should thus meet again in the Resurrection, it is most convenient to Gods Ju<g ref="char:EOLhyphen"/>stice, whether they rise to resurrection of life, or to re<g ref="char:EOLhyphen"/>surrection of damnation. For as the godly have glori<g ref="char:EOLhyphen"/>fied God in Body and Soul, it is fit they should be glori<g ref="char:EOLhyphen"/>fied in Body and Soul. As the ungodly have dishonou<g ref="char:EOLhyphen"/>red God in Body and Soul, it is fit that one time they be dishonoured in both.</p>
+            <p>A Martyrs Spirit, that hath suffered much for the testi<g ref="char:EOLhyphen"/>mony of Christ, is joyfully received into the arms of Gods mercy, and his body in the mean while is eaten by Dogs or Ravens, or by Lice and Worms, which is as bad. Do<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not the poor body seem to cry to God from the Earth, Lord, I have been tortured for thy Names sake, I bear yet in my flesh the marks of the Lord <hi>Jesus.</hi> I have joyned <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y long-suffering with the constancy of my soul: Now thou hast glorified my soul, and dost thou neglect me? Mu<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> my Spirit be crowned with immortality, and I his part<g ref="char:EOLhyphen"/>ner be given over to corruption for ever? Sure that can<g ref="char:EOLhyphen"/>not be for ever. Since body and soul were partners in goodness, God will make them sharers in blessedness. On<g ref="char:EOLhyphen"/>ly because the mass of the flesh is infected with sin, the bo<g ref="char:EOLhyphen"/>dy must sleep it out in the dust: sin must moulder awa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the flesh, and in Gods good time, body and soul sha<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> meet again, to enter together into the joy of their Master.</p>
+            <p>Likewise when a wicked man dieth, who hath abused hi<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Members to intemperance, lust, and violence, and hi<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soul is tormented in Hell, while his Body lyeth aslee<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="21" facs="tcp:109374:11"/> in the Grave, his Soul might exclaim against God justice and say, my body hath been a snare and a trap unto me, for seeking too much to please it, I was brought to this place of torment; and must I be punisht while the body my seducer lyeth quiet? O that I were sleeping in the dust with my flesh! I would be content to be without life so I were without sense. Sure the reprobate spirits cannot wish their bodies rejoyned with them, to the redoubling of their torment. Yet it must be so. There must be a rejoyn<g ref="char:EOLhyphen"/>ing of their bodies and souls, that these partners in sin may be partners in punishment.</p>
+            <p>St. <hi>Paul</hi> saith, 1 <hi>Cor.</hi> 6.18. that he that commits for<g ref="char:EOLhyphen"/>nication sinneth against his own body. He means not there the rotten sickness contracted by that sin. It was not then past from the Western World, to our World: He means the torment inflicted for it in Hell. How doth the lascivious person sin against his own body, if his bo<g ref="char:EOLhyphen"/>dy must onely rot in the Grave and be there in no worse condition then the bodies of the godly? Nay, he shall find that he hath sinned against his own body, when it shall rise to shame and everlasting contempt. <hi>For we must all appear before the Judgment seat of Christ, that every one may receive the things done in his body, whether it be good or evil,</hi> 2. Cor. 5.10.</p>
+            <p>The <hi>Rabbins</hi> have a parable to this purpose, alluding to the first sin of man, The eating of the forbidden fruit. Then say, That two fellow Servants, the one blind, the o<g ref="char:EOLhyphen"/>ther impotent of his legs, went about to rob a Tree of their Lords. The blind took the lame on his shoulders, The lame guided the blind to the Tree, and robbed the
+<pb facs="tcp:109374:12"/> fruit. Their Lord saw them and examined the<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> The Blind said for himself that he could not <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fruit, the Lame that he could not reach it, But their Lord told them, You have done the deed together, and shall be punisht together; and he commanded them to be tyed together, and beaten together. In the committing of sin the mind is the lame man, who is clear sighted e<g ref="char:EOLhyphen"/>nough to do evil; but he wants Limbs and strength for the Execution: The Body is the Blind, who hath Limbs and strength to do evil, but wants eyes, and is guided by the Mind to do it. It will not serve their turn, for the one to say to God I want eyes, and the other I want strength; The eyes of the one, and the strength of the o<g ref="char:EOLhyphen"/>ther have joyned in the sin, they shall be joyned in the punishment. And this is done in the resur<g ref="char:EOLhyphen"/>rection of Damnation; in which Body and Soul shall be tyed together, and endure together that shame and contempt which they have drawn toge<g ref="char:EOLhyphen"/>ther upon themselves.</p>
+            <p>That the reprobate Souls suffer alone for a time while the Body lyeth asleep in the dust, their i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good reason for it; the Soul hath my times sin<g ref="char:EOLunhyphen"/>ned without the Body. Likewise that the godly Soul is glorified before and without the Body, there is good reason; the Soul hath many times glorified God without the Body: The good Soul doth many good deeds, in which the body hath no part.</p>
+            <p>Now that life which body and soul shall enjoy
+<pb n="23" facs="tcp:109374:12"/> in their re-union being everlasting, and as great in height as in length, should seem to require also an everlasting discourse: But it is quite otherwise; for being so high in dignity and blessedness, and so long in continuance it is past humane discourse; And being above our apprehension it is more yet above our expression. <hi>Since the beginning of the World men have not heard, nor perceived by the ear, nor hath the eye seen, O God, besides thee, what thou hast prepared for him that waiteth for thee,</hi> Isa. 64.4.</p>
+            <p>And so the everlasting shame and contempt re<g ref="char:EOLhyphen"/>served for the ungodly in the resurrection of dam<g ref="char:EOLhyphen"/>nation cannot be exprest. For neither the rich Glutton, nor any other in Hell, could yet obtain to send a messenger back into the World to give warning to their friends, or some information to the men of this World, how matters are carried there, and God grant we never go see it.</p>
+            <p>To that end it is good to keep our selves in fear by remembring what names Scripture gives to that Hellish torment; <hi>A flame, a gnawing Worm, a lake of fire and brimstone, wailing and gnashing of teeth, shame and contempt,</hi> and that <hi>everlasting; a Worm that dyeth not, a fire that is not quenched.</hi> It is pitty that this is not believed: If it were men would take heed of those wayes that bring body and soul to it. They would not make offending God a piece of Gallantry, nor Blasphemy the orna<g ref="char:EOLhyphen"/>ment of their speech, nor the contempt of his Word,
+<pb facs="tcp:109374:13"/> the exercise of their jearing wit. They would <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> turn themselves loose to all intemperance and un<g ref="char:EOLhyphen"/>cleanness with greediness. They would not make so much hast to hook in an Estate by deceitful wayes They would not put upon violence and oppression the face of the Law, and abstain from no injustice that may be defended by a seeming regal course. God give them grace when they are assaulted with such temptations, to set God before their eyes, the witness and the Judge of the sincerity or unsince<g ref="char:EOLhyphen"/>rity of their Actions; and to be kept back, if not by the love and reverence of God, at least by the terrour of the shame and everlasting contempt and torment kept for the wicked in Hell.</p>
+            <p>But that which we have to do with now, is everlasting life; when <hi>they that be wise shall shine as the brightness of the Firmament, and they that turn many to righteousness as the Stars, for ever and ever.</hi>
+            </p>
+            <p>Observe the vertuous persons, and their reward. The vertuous persons, <hi>They that be wise, they that turn many to Righteousness;</hi> Their reward, <hi>They shall shine as the brightness of the Firmament, and as the St<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s for ever.</hi>
+            </p>
+            <p>Here I apprehend not a distinction between the <hi>wise,</hi> and <hi>they that turn many to Righteousness.</hi> N<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> between <hi>shining as the brightness of the Firmamen<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>shining as the Stars. Idem dicitur seque<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hemistichio quod dictum est priore, more Hebr<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> In these two half Sentences we need not conceiv<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:109374:13"/>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> increase from the least to the greater, as some will have it, but onely a repetition of the same thing in other words, for a greater confirmation, after the <hi>Hebrew</hi> style. For those which are stiled <hi>wise</hi> by our version are <hi>Mashkilim</hi> in <hi>Hebrew,</hi> which signifieth both <hi>the Instructed,</hi> and <hi>they that Instruct,</hi> and such will <hi>turn many to Righteouss.</hi>
+            </p>
+            <p>And their shining <hi>as the brightness of the Fir<g ref="char:EOLhyphen"/>mament,</hi> and their <hi>shining as the Stars</hi> come all to one; for it is by the Stars that the Firmament shines bright, and not otherwise.</p>
+            <p>It seems that our Saviour had regard to this Text, when he said, <hi>Matth.</hi> 5.19. that <hi>whosoever shall do and teach Gods Commandements, shall be great in the Kingdom of Heaven.</hi> Both these Texts regard those that are most proficient, and the prime leaders in the way of Godliness; who by their powerful Doctrine and Example promote the conversion of sinners. To such excellent persons a great and good reward is kept. And good reason that those wise who have been burning and shining Lights in the Church, be made bright and shining Stars in the high<g ref="char:EOLhyphen"/>est Heaven.</p>
+            <p>This term of wisdom comprehends all moral and religious vertues, an infinite Subject of meditation. But we will not give a larger extent to the wisdom here required then the Text doth. Here that espe<g ref="char:EOLhyphen"/>cial wisdom is considered, which turneth many to Righteousness. It is a duty enjoyned not to preachers
+<pb facs="tcp:109374:14"/> onely, but to all Christians, <hi>Jam.</hi> 5.19. <hi>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if any of you do err from the Truth, and one con<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, let him know that he which converteth the sin<g ref="char:EOLunhyphen"/>ner from the errour of his way, shall save a Soul f<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Death, and shall hide a multitude of sins. He th<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> winneth Souls is wise,</hi> Prov. 11.30. They that can, let them convince errour by good Do<g ref="char:EOLunhyphen"/>ctrine; They that cannot, let them convince vices by vertuous practice.</p>
+            <p>Indeed we ought to turn our selves first to righte<g ref="char:EOLhyphen"/>ousness, that we may turn others. But if we <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> till we be thoroughly turned to righteousness, be<g ref="char:EOLhyphen"/>fore we go about to turn others, I am afraid we shall never begin. Let us begin at home, and thus by labouring to turn others to righteousness by o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> good example we shall turn our selves. Teaching is the surest way of learning.</p>
+            <p>Would you keep licentious sinners from sh<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and everlasting contempt? Sure you would be glad to do that work of mercy. It is indeed a wo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for God, but you may have a great hand in <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> You see that it is the great stream of sin that ma<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sinners to be without shame, for which everlasting shame and contempt shall be repay'd to the<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Then your course to mend that is, that you all joyn in Godliness, in sincerity, in sobriety, in Charity, that you make Righteousness run like a great stream, and turn the stream of sin with <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> stronger. Knit such a good Conspiracy of Holiness <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:109374:14"/> w<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> against Vice, that Blasphemy, Atheism, and all the sins of the time become out of fashion, and be put out of countenance by the contrary general practice, and by an universal open con<g ref="char:EOLhyphen"/>tradiction. Spare not to make loose sinners asha<g ref="char:EOLhyphen"/>med; that will be their first step to Repentance and conversion. So shall ye, by making them a<g ref="char:EOLhyphen"/>shamed of their sins by your holiness and good Counsel, keep the poor Souls from shame and everlasting contempt and torment in Hell. So shall you by turning many to Righteousness per<g ref="char:EOLhyphen"/>fect your own turning, and get to your selves that invaluable reward, to be bright Stars in Gods Heaven. Could many such as this Right Honourable, and Right Religious Lady, have met in such a Conspiracy against the shameless un<g ref="char:EOLhyphen"/>godliness of the times, sinners would have been <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>asht at the joyned strength of so much vertue. But being not assisted, yet she did what was in her, both by good Counsel, and good Example. Her good counsel was not wanting upon occasi<g ref="char:EOLhyphen"/>on, for she had with the zeal of God a cleer un<g ref="char:EOLhyphen"/>derstanding, and a sound Judgment in the things of God; and her memory was a rich treasury of Holy knowledge. But her good Example was a continual pregnant Sermon of Godliness, Cha<g ref="char:EOLhyphen"/>rity, Humility, Wisdom, Honour, and all Chri<g ref="char:EOLhyphen"/>stian and civil Vertues. And they had hard hearts that would not be turned to Righteousness
+<pb n="28" facs="tcp:109374:15"/> by her speaking and teaching practice.</p>
+            <p>The reward assigned to such a Vertue, is <hi>to shine as the brightness of the Firmament, and as the Stars, for ever and ever.</hi> The moral sense of <hi>Light</hi> in Scripture is Truth, Com<g ref="char:EOLhyphen"/>fort, and Joy. <hi>David</hi> full of joy for great Victories and Prosperities, thus praiseth God for them, <hi>God is the Lord who hath shewed us Light,</hi> Psal. 118.27. The eternal blessedness of Gods Children is called the <hi>Inheritance of the Saints in the Light,</hi> Col. 1.12. God himself, our Sovereign good is the first. Light. <hi>The that look upon him are lightened,</hi> Psal. 34 5. That is, made good and happy by his Light, and by their near admittance to the light of his Countenance, they get that bright<g ref="char:EOLhyphen"/>ness of the Firmament, and shine in his pre<g ref="char:EOLhyphen"/>sence like Stars for ever, with Holiness and Glory. Their Souls like so many Christal Globes in the Sun shine, being full all thorow, and re<g ref="char:EOLhyphen"/>splendent with his perfecting and beautifying light. But what! that light is not for your eyes nor mine in this World. It is a matter above our apprehension. Let that ignorance breed in you the curiosity to go and see it your selves. You have the way to it before you, the lessons of faith and obedience.</p>
+            <p>Neither will I go about to describe how bright our Honourable and Vertuous Friend shines
+<pb n="29" facs="tcp:109374:15"/> now in the third Heaven. 'Tis enough for us to shew. that she hath trodden the right path to Glory. Let all judge whether she that was so vertuous on Earth, can be otherwise than glorious in Heaven. What surer way to go where Christ is, than to follow his steps? Was not her life a faithful imitation of our Saviour, <hi>who left us an Example that we should follow his steps? Who did no sin, nei<g ref="char:EOLhyphen"/>ther was guile found in his Mouth, Who when he was reviled,, reviled not again, when he suffered he threatned not, but committed him<g ref="char:EOLhyphen"/>self to him that Judgeth Righteously.</hi> Did she not <hi>take Christ's Yoak upon her, and learn of him,</hi> that <hi>he is meek and humble of heart, whereby she found rest unto her soul?</hi> Did she not feed the hungry, cloath the naked, com<g ref="char:EOLhyphen"/>fort the Widow, assist the Orphan, send to visit the sick and the prisoner? Were not here good works real and free from Ostentati<g ref="char:EOLhyphen"/>on, her devotion to God fervent, her af<g ref="char:EOLhyphen"/>fection to his House Cordial, her regard of his Servants exemplary? So she was in her Health, so she was in her Sickness, so she was in the. approaches of Death. O how did her Humility, Faith and Love get strength by her weakness in that last Combat! How did she set the Lord before her! How fast did she lay hold on him! as saying
+<pb n="30" facs="tcp:109374:16"/> with the Spouse, <hi>I have found him wh<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> my Soul loved, I haved found him and will not let him go.</hi>
+            </p>
+            <p>Neither did her good Works dye with her, Of which the Noble and Religious Executri<g ref="char:EOLhyphen"/>ces of her Will, will give a good evidence to the World. Thus in her Life, in her Death, and after her Death, she hath made her Light so to shine before men, that they seeing her good Works will glorifie her Fa<g ref="char:EOLhyphen"/>ther which is in Heaven. Now who can make any doubt that a person that hath made her Light so to shine on Earth, must both in her Resurrection to Life Eternal, and in her present enjoyment of the end of her faith, shine in Heaven as the brightness of the Fir<g ref="char:EOLhyphen"/>mament, and as the Stars for ever and e<g ref="char:EOLhyphen"/>ver? What height of comfort doth she en<g ref="char:EOLhyphen"/>joy in the possession of him whom she hath so earnestly sought by her frequent prayers fasting, and exercises of mortification? How doth she relish how the Lord is gracious i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this call, <hi>Come thou Blessed of my Father inherit the Kingdom prepared for thee from t<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Foundation of the World.</hi> We leave thee Heaven, vertuous blessed Soul, in the Ar<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of him that hath loved thee, and wedded th<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to himself with eternal compassions. And we be<g ref="char:EOLunhyphen"/>seech thee, great and good God, who hast sanctified
+<pb facs="tcp:109374:16"/> a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> so richly adorned thy Servant, to make the good savour of thy gifts in her effectual to the turning of many to Righteousness, to thy glory and their eternal salvation, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
